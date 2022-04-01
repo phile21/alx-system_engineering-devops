@@ -26,3 +26,6 @@ Directories - A script that adds execute permission to all subdirectories of cur
 More directories - A script that creates a directory with permissions 751 in current working directory
 
 Change group - A script that changes group owner
+
+
+Owner and group - A script that changes owner and group owner offiles and directories in the working directory
