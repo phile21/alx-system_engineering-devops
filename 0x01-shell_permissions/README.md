@@ -5,3 +5,5 @@ Who am I - A script that prints the username of current user
 Groups - A script that prints all groups ther current user is part of
 
 New owner - A script that changes owner of a file
+
+Empty - A script that creates an empty file
