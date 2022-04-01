@@ -29,3 +29,5 @@ Change group - A script that changes group owner
 
 
 Owner and group - A script that changes owner and group owner offiles and directories in the working directory
+
+Symbolic links - A script that changes owner and group owner of symbolic file
