@@ -9,3 +9,5 @@ New owner - A script that changes owner of a file
 Empty - A script that creates an empty file
 
 Execute - A scipt that adds execute permission to owner of file
+
+Multiple permissions = A script that add exute permission to owner and group owner and read permission to other users to a file
