@@ -13,3 +13,6 @@ Execute - A scipt that adds execute permission to owner of file
 Multiple permissions - A script that adds exute permission to owner and group owner and read permission to other users to a file
 
 Everybody - A script that adds execution permission to onwer, group owner and others to a file
+
+
+Jmaes Bond - A script that does not give any permissions to owner and group and gives all permissions to otner users
