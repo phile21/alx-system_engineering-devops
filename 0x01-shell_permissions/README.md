@@ -24,3 +24,5 @@ Look in the mirror - A script that sets one file mode to match another
 Directories - A script that adds execute permission to all subdirectories of current directory for all
 
 More directories - A script that creates a directory with permissions 751 in current working directory
+
+Change group - A script that changes group owner
