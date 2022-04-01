@@ -10,4 +10,6 @@ Empty - A script that creates an empty file
 
 Execute - A scipt that adds execute permission to owner of file
 
-Multiple permissions = A script that add exute permission to owner and group owner and read permission to other users to a file
+Multiple permissions - A script that adds exute permission to owner and group owner and read permission to other users to a file
+
+Everybody - A script that adds execution permission to onwer, group owner and others to a file
