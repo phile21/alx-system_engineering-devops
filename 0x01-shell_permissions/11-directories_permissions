@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +x /root/
+chmod -R 711 /root/
