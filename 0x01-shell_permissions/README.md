@@ -20,3 +20,5 @@ Jmaes Bond - A script that does not give any permissions to owner and group and 
 John Doe - A script that sets mode of a file
 
 Look in the mirror - A script that sets one file mode to match another
+
+Directories - A script that adds execute permission to all subdirectories of current directory for all
