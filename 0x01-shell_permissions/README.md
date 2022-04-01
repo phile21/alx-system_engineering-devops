@@ -16,3 +16,6 @@ Everybody - A script that adds execution permission to onwer, group owner and ot
 
 
 Jmaes Bond - A script that does not give any permissions to owner and group and gives all permissions to otner users
+
+John Doe - A script that sets mode of a file
+
