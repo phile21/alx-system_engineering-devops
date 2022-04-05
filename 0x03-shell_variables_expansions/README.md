@@ -7,3 +7,5 @@ The path to success is to take massive, determined action - A script that adds /
 If the path be beautiful, let us not ask where it leads - A script that counts the number of directories in the PATH
 
 Global variables - A script that lists environment variables.
+
+Local variables - A  script that lists all local variables and environment variables, and functions.
