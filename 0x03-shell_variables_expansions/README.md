@@ -13,3 +13,5 @@ Local variables - A  script that lists all local variables and environment varia
 Local variable - A script that creates a new local variable
 
 Global variable - A script that creates a new global variable.
+
+Every addition to true knowlegde is an addition to human power -  A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
