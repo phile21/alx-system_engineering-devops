@@ -5,3 +5,5 @@ Confused Smiley - A script that displays a confused smiley "(Ôo)'
 Let's display a file - A script that displays the content of the /etc/passwd file
 
 What about 2 - A script that displays the content of /etc/passwd and /etc/hosts
+
+Lat lines of a file - A script that displays the last 10 lines of /etc/passwd
