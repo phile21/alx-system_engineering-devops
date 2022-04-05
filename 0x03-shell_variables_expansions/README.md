@@ -17,3 +17,5 @@ Global variable - A script that creates a new global variable.
 Every addition to true knowlegde is an addition to human power -  A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 
 Divide and rule - A script that prints the result of POWER divided by DIVIDE, followed by a new line.
+
+Love is anterior to life, posterior to death, initial of creation, and the exponent of breath - A scrit that hat displays the result of BREATH to the power LOVE
