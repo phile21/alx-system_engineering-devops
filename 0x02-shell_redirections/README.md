@@ -13,3 +13,6 @@ I'd prefer the first ones actually - A script that displays the first 10 lines o
 Line#2 - A script that displays the third line of the file iacta
 
 It is a good file that cuts iron without making noise - A script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+
+Save current state of directory -  A script that writes into the file ls_cwd_content the result of the command ls -la
+
