@@ -6,4 +6,6 @@ Let's display a file - A script that displays the content of the /etc/passwd fil
 
 What about 2 - A script that displays the content of /etc/passwd and /etc/hosts
 
-Lat lines of a file - A script that displays the last 10 lines of /etc/passwd
+Last lines of a file - A script that displays the last 10 lines of /etc/passwd
+
+I'd prefer the first ones actually - A script that displays the first 10 lines of /etc/passwd
