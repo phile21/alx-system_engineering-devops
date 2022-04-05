@@ -21,3 +21,5 @@ Divide and rule - A script that prints the result of POWER divided by DIVIDE, fo
 Love is anterior to life, posterior to death, initial of creation, and the exponent of breath - A scrit that hat displays the result of BREATH to the power LOVE
 
 There are 10 types of people in the world--Those who understand binary and those who don't - A script that converts a number from base 2 to base 10.
+
+Combination - A script that prints all possible combinations of two letters, except oo
