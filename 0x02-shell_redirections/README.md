@@ -29,3 +29,5 @@ Being unique is better than being perfect - A script that takes a list of words 
 It must be in that file - A script that displays lines containing the pattern “root” from the file /etc/passwd
 
 Count that word - A script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
+
+What's next - A script that displays  lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
