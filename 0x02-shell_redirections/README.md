@@ -24,3 +24,4 @@ Don't just count your directories, make your directories count - A script that c
 
 Whats new - A script that displays the 10 newest files in the current directory
 
+Being unique is better than being perfect - A script that takes a list of words as input and prints only words that appear exactly once
