@@ -31,3 +31,6 @@ It must be in that file - A script that displays lines containing the pattern �
 Count that word - A script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
 
 What's next - A script that displays  lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
+I hate bins - A scrpt that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
