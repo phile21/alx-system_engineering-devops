@@ -41,3 +41,5 @@ A to Z - A script that replaces all characters A and c from input to Z and e res
 Without C, you would live in hiago - A script that removes all letters c and C from input
 
 esreveR - A script that reverse its input.
+
+DJ cut killer - A script that displays all users and their home directories, sorted by users
