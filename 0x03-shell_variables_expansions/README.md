@@ -11,3 +11,5 @@ Global variables - A script that lists environment variables.
 Local variables - A  script that lists all local variables and environment variables, and functions.
 
 Local variable - A script that creates a new local variable
+
+Global variable - A script that creates a new global variable.
