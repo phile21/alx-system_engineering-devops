@@ -39,3 +39,5 @@ Lettters only please - A script that displays all lines of the file /etc/ssh/ssh
 A to Z - A script that replaces all characters A and c from input to Z and e respectively.
 
 Without C, you would live in hiago - A script that removes all letters c and C from input
+
+esreveR - A script that reverse its input.
