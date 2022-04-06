@@ -45,3 +45,5 @@ esreveR - A script that reverse its input.
 DJ cut killer - A script that displays all users and their home directories, sorted by users
 
 Empty casks make the noise - A script that finds all empty files and directories in the current directory and all sub-directories
+
+A gif is worth ten thousand words - A script that lists all the files with a .gif extension in the current directory and all its sub-directories
