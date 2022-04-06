@@ -23,3 +23,5 @@ Love is anterior to life, posterior to death, initial of creation, and the expon
 There are 10 types of people in the world--Those who understand binary and those who don't - A script that converts a number from base 2 to base 10.
 
 Combination - A script that prints all possible combinations of two letters, except oo
+
+Floats - A script that prints a number with two decimal places, followed by a new line
