@@ -43,3 +43,5 @@ Without C, you would live in hiago - A script that removes all letters c and C f
 esreveR - A script that reverse its input.
 
 DJ cut killer - A script that displays all users and their home directories, sorted by users
+
+Empty casks make the noise - A script that finds all empty files and directories in the current directory and all sub-directories
